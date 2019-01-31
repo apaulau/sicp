@@ -7,6 +7,7 @@ Each solution placed in separate file corresponding to the exercise number
 * Racket
 * Rackunit (`raco pkg install rackunit`)
 
-### Using
+### Usage
 
 1. Run tests `raco test exercises`
+2. Run specific solution `racket exercises/chapterX/YY.rkt`
