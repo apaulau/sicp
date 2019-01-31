@@ -4,7 +4,7 @@ Each solution placed in separate file corresponding to the exercise number
 
 ### Requirements
 
-* Racket
+* Racket (https://racket-lang.org)
 * Rackunit (`raco pkg install rackunit`)
 
 ### Usage
